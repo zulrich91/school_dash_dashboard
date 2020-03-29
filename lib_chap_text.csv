@@ -1,0 +1,160 @@
+,SERVICE,LIB_CHAPITRE_TEXT
+0,Bloc Commun,"['Tumeurs (c00-d48)' ""Maladies De L'appareil Génito-urinaire (n00-n99)""
+ 'Maladies Endocriniennes, Nutritionnelles Et Métaboliques (e00-e90)'
+ ""Maladies De L'appareil Digestif (k00-k93)""
+ ""Maladies De L'appareil Circulatoire (i00-i99)""
+ ""Facteurs Influant Sur L'état De Santé Et Motifs De Recours Aux Services De Santé (z00-z99)""
+ ""Symptômes, Signes Et Résultats Anormaux D'examens Cliniques Et De Laboratoire, Non Classés Ailleurs (r00-r99)""
+ 'Lésions Traumatiques, Empoisonnements Et Certaines Autres Conséquences De Causes Externes (s00-t98)'
+ 'Maladies De La Peau Et Du Tissu Cellulaire Sous-cutané (l00-l99)'
+ 'Certaines Maladies Infectieuses Et Parasitaires (a00-b99)'
+ 'Malformations Congénitales Et Anomalies Chromosomiques (q00-q99)'
+ 'Maladies Du SystèMe Nerveux (g00-g99)'
+ ""Maladies De L'appareil Respiratoire (j00-j99)""
+ 'Maladies Du SystèMe Ostéo-articulaire, Des Muscles Et Du Tissu Conjonctif (m00-m99)'
+ 'Maladies Du Sang Et Des Organes Hématopoïétiques Et Certains Troubles Du SystèMe Immunitaire (d50-d89)']"
+1,Brûlés,"['Lésions Traumatiques, Empoisonnements Et Certaines Autres Conséquences De Causes Externes (s00-t98)']"
+2,CCV,"[""Maladies De L'appareil Circulatoire (i00-i99)""
+ 'Maladies De La Peau Et Du Tissu Cellulaire Sous-cutané (l00-l99)'
+ 'Malformations Congénitales Et Anomalies Chromosomiques (q00-q99)'
+ 'Lésions Traumatiques, Empoisonnements Et Certaines Autres Conséquences De Causes Externes (s00-t98)'
+ 'Maladies Du SystèMe Nerveux (g00-g99)'
+ ""Facteurs Influant Sur L'état De Santé Et Motifs De Recours Aux Services De Santé (z00-z99)""
+ ""Maladies De L'appareil Respiratoire (j00-j99)""
+ 'Maladies Du SystèMe Ostéo-articulaire, Des Muscles Et Du Tissu Conjonctif (m00-m99)'
+ ""Symptômes, Signes Et Résultats Anormaux D'examens Cliniques Et De Laboratoire, Non Classés Ailleurs (r00-r99)""
+ 'Tumeurs (c00-d48)']"
+3,CMCA,"[""Maladies De L'appareil Digestif (k00-k93)"" 'Tumeurs (c00-d48)'
+ ""Maladies De L'appareil Génito-urinaire (n00-n99)""
+ ""Maladies De L'appareil Circulatoire (i00-i99)""
+ ""Facteurs Influant Sur L'état De Santé Et Motifs De Recours Aux Services De Santé (z00-z99)""
+ 'Certaines Maladies Infectieuses Et Parasitaires (a00-b99)'
+ ""Symptômes, Signes Et Résultats Anormaux D'examens Cliniques Et De Laboratoire, Non Classés Ailleurs (r00-r99)""
+ 'Maladies Du SystèMe Nerveux (g00-g99)'
+ 'Maladies Endocriniennes, Nutritionnelles Et Métaboliques (e00-e90)'
+ ""Maladies De L'appareil Respiratoire (j00-j99)""
+ 'Lésions Traumatiques, Empoisonnements Et Certaines Autres Conséquences De Causes Externes (s00-t98)'
+ 'Maladies De La Peau Et Du Tissu Cellulaire Sous-cutané (l00-l99)'
+ 'Maladies Du Sang Et Des Organes Hématopoïétiques Et Certains Troubles Du SystèMe Immunitaire (d50-d89)'
+ 'Troubles Mentaux Et Du Comportement (f00-f99)'
+ 'Malformations Congénitales Et Anomalies Chromosomiques (q00-q99)']"
+4,Chir Pédiatrique,"['Maladies Du SystèMe Ostéo-articulaire, Des Muscles Et Du Tissu Conjonctif (m00-m99)'
+ 'Malformations Congénitales Et Anomalies Chromosomiques (q00-q99)'
+ ""Maladies De L'appareil Digestif (k00-k93)"" 'Tumeurs (c00-d48)'
+ ""Facteurs Influant Sur L'état De Santé Et Motifs De Recours Aux Services De Santé (z00-z99)""
+ 'Maladies Endocriniennes, Nutritionnelles Et Métaboliques (e00-e90)'
+ ""Maladies De L'appareil Respiratoire (j00-j99)""
+ 'Lésions Traumatiques, Empoisonnements Et Certaines Autres Conséquences De Causes Externes (s00-t98)'
+ ""Maladies De L'oreille Et De L'apophyse Mastoïde (h60-h95)""
+ ""Symptômes, Signes Et Résultats Anormaux D'examens Cliniques Et De Laboratoire, Non Classés Ailleurs (r00-r99)""
+ 'Maladies Du SystèMe Nerveux (g00-g99)'
+ ""Maladies De L'appareil Génito-urinaire (n00-n99)""]"
+5,Chir Tho,"[""Maladies De L'appareil Respiratoire (j00-j99)"" 'Tumeurs (c00-d48)'
+ ""Symptômes, Signes Et Résultats Anormaux D'examens Cliniques Et De Laboratoire, Non Classés Ailleurs (r00-r99)""
+ ""Facteurs Influant Sur L'état De Santé Et Motifs De Recours Aux Services De Santé (z00-z99)""
+ 'Certaines Maladies Infectieuses Et Parasitaires (a00-b99)'
+ 'Malformations Congénitales Et Anomalies Chromosomiques (q00-q99)'
+ ""Maladies De L'appareil Circulatoire (i00-i99)""
+ 'Maladies Endocriniennes, Nutritionnelles Et Métaboliques (e00-e90)'
+ 'Maladies De La Peau Et Du Tissu Cellulaire Sous-cutané (l00-l99)'
+ ""Maladies De L'appareil Digestif (k00-k93)""
+ 'Lésions Traumatiques, Empoisonnements Et Certaines Autres Conséquences De Causes Externes (s00-t98)'
+ 'Maladies Du SystèMe Nerveux (g00-g99)'
+ 'Maladies Du SystèMe Ostéo-articulaire, Des Muscles Et Du Tissu Conjonctif (m00-m99)'
+ 'Troubles Mentaux Et Du Comportement (f00-f99)'
+ 'Maladies Du Sang Et Des Organes Hématopoïétiques Et Certains Troubles Du SystèMe Immunitaire (d50-d89)']"
+6,Gynécologie,"[""Maladies De L'appareil Génito-urinaire (n00-n99)"" 'Tumeurs (c00-d48)'
+ 'Malformations Congénitales Et Anomalies Chromosomiques (q00-q99)'
+ ""Maladies De L'appareil Digestif (k00-k93)""
+ ""Facteurs Influant Sur L'état De Santé Et Motifs De Recours Aux Services De Santé (z00-z99)""
+ 'Grossesse, Accouchement Et Puerpéralité  (o00-o99)'
+ 'Maladies Endocriniennes, Nutritionnelles Et Métaboliques (e00-e90)'
+ ""Symptômes, Signes Et Résultats Anormaux D'examens Cliniques Et De Laboratoire, Non Classés Ailleurs (r00-r99)""
+ 'Lésions Traumatiques, Empoisonnements Et Certaines Autres Conséquences De Causes Externes (s00-t98)'
+ ""Maladies De L'appareil Circulatoire (i00-i99)""
+ 'Troubles Mentaux Et Du Comportement (f00-f99)'
+ 'Certaines Maladies Infectieuses Et Parasitaires (a00-b99)']"
+7,NeuroChirurgie,"[""Facteurs Influant Sur L'état De Santé Et Motifs De Recours Aux Services De Santé (z00-z99)""
+ 'Maladies Du SystèMe Ostéo-articulaire, Des Muscles Et Du Tissu Conjonctif (m00-m99)'
+ 'Tumeurs (c00-d48)'
+ 'Lésions Traumatiques, Empoisonnements Et Certaines Autres Conséquences De Causes Externes (s00-t98)'
+ ""Symptômes, Signes Et Résultats Anormaux D'examens Cliniques Et De Laboratoire, Non Classés Ailleurs (r00-r99)""
+ 'Maladies Du SystèMe Nerveux (g00-g99)'
+ ""Maladies De L'appareil Circulatoire (i00-i99)""
+ 'Malformations Congénitales Et Anomalies Chromosomiques (q00-q99)'
+ 'Maladies De La Peau Et Du Tissu Cellulaire Sous-cutané (l00-l99)']"
+8,NeuroRadiologie,"['Maladies Du SystèMe Nerveux (g00-g99)'
+ 'Malformations Congénitales Et Anomalies Chromosomiques (q00-q99)'
+ ""Facteurs Influant Sur L'état De Santé Et Motifs De Recours Aux Services De Santé (z00-z99)""
+ 'Tumeurs (c00-d48)'
+ 'Maladies Du SystèMe Ostéo-articulaire, Des Muscles Et Du Tissu Conjonctif (m00-m99)'
+ 'Grossesse, Accouchement Et Puerpéralité  (o00-o99)'
+ ""Maladies De L'appareil Circulatoire (i00-i99)""
+ 'Lésions Traumatiques, Empoisonnements Et Certaines Autres Conséquences De Causes Externes (s00-t98)'
+ ""Symptômes, Signes Et Résultats Anormaux D'examens Cliniques Et De Laboratoire, Non Classés Ailleurs (r00-r99)""]"
+9,ORL,"['Tumeurs (c00-d48)' ""Maladies De L'appareil Respiratoire (j00-j99)""
+ ""Symptômes, Signes Et Résultats Anormaux D'examens Cliniques Et De Laboratoire, Non Classés Ailleurs (r00-r99)""
+ ""Maladies De L'appareil Digestif (k00-k93)""
+ ""Maladies De L'oreille Et De L'apophyse Mastoïde (h60-h95)""
+ 'Malformations Congénitales Et Anomalies Chromosomiques (q00-q99)'
+ 'Lésions Traumatiques, Empoisonnements Et Certaines Autres Conséquences De Causes Externes (s00-t98)'
+ ""Facteurs Influant Sur L'état De Santé Et Motifs De Recours Aux Services De Santé (z00-z99)""
+ ""Maladies De L'appareil Circulatoire (i00-i99)""
+ 'Maladies Du SystèMe Nerveux (g00-g99)'
+ 'Maladies Du SystèMe Ostéo-articulaire, Des Muscles Et Du Tissu Conjonctif (m00-m99)'
+ 'Maladies Endocriniennes, Nutritionnelles Et Métaboliques (e00-e90)'
+ 'Maladies De La Peau Et Du Tissu Cellulaire Sous-cutané (l00-l99)'
+ ""Maladies De L'oeil Et De Ses Annexes (h00-h59)""
+ ""Maladies De L'appareil Génito-urinaire (n00-n99)""]"
+10,Obstétrique,"['Grossesse, Accouchement Et Puerpéralité  (o00-o99)'
+ 'Maladies Endocriniennes, Nutritionnelles Et Métaboliques (e00-e90)'
+ ""Facteurs Influant Sur L'état De Santé Et Motifs De Recours Aux Services De Santé (z00-z99)""
+ 'Malformations Congénitales Et Anomalies Chromosomiques (q00-q99)'
+ 'Maladies Du Sang Et Des Organes Hématopoïétiques Et Certains Troubles Du SystèMe Immunitaire (d50-d89)']"
+11,Ophtalmologie,"[""Maladies De L'oeil Et De Ses Annexes (h00-h59)""
+ 'Lésions Traumatiques, Empoisonnements Et Certaines Autres Conséquences De Causes Externes (s00-t98)'
+ 'Malformations Congénitales Et Anomalies Chromosomiques (q00-q99)'
+ 'Maladies Du SystèMe Ostéo-articulaire, Des Muscles Et Du Tissu Conjonctif (m00-m99)'
+ 'Certaines Maladies Infectieuses Et Parasitaires (a00-b99)'
+ 'Tumeurs (c00-d48)']"
+12,Spécialités Salengro,"['Tumeurs (c00-d48)'
+ ""Maladies De L'oreille Et De L'apophyse Mastoïde (h60-h95)""
+ 'Maladies De La Peau Et Du Tissu Cellulaire Sous-cutané (l00-l99)'
+ ""Maladies De L'appareil Digestif (k00-k93)""
+ ""Symptômes, Signes Et Résultats Anormaux D'examens Cliniques Et De Laboratoire, Non Classés Ailleurs (r00-r99)""
+ 'Lésions Traumatiques, Empoisonnements Et Certaines Autres Conséquences De Causes Externes (s00-t98)'
+ 'Malformations Congénitales Et Anomalies Chromosomiques (q00-q99)'
+ ""Facteurs Influant Sur L'état De Santé Et Motifs De Recours Aux Services De Santé (z00-z99)""
+ ""Maladies De L'appareil Génito-urinaire (n00-n99)""
+ ""Maladies De L'appareil Circulatoire (i00-i99)""
+ 'Maladies Endocriniennes, Nutritionnelles Et Métaboliques (e00-e90)'
+ ""Maladies De L'appareil Respiratoire (j00-j99)""
+ 'Maladies Du SystèMe Nerveux (g00-g99)'
+ ""Maladies De L'oeil Et De Ses Annexes (h00-h59)""
+ 'Maladies Du SystèMe Ostéo-articulaire, Des Muscles Et Du Tissu Conjonctif (m00-m99)'
+ 'Certaines Maladies Infectieuses Et Parasitaires (a00-b99)'
+ 'Troubles Mentaux Et Du Comportement (f00-f99)']"
+13,Traumatologie,"['Lésions Traumatiques, Empoisonnements Et Certaines Autres Conséquences De Causes Externes (s00-t98)'
+ ""Symptômes, Signes Et Résultats Anormaux D'examens Cliniques Et De Laboratoire, Non Classés Ailleurs (r00-r99)""
+ ""Facteurs Influant Sur L'état De Santé Et Motifs De Recours Aux Services De Santé (z00-z99)""
+ 'Maladies Du SystèMe Ostéo-articulaire, Des Muscles Et Du Tissu Conjonctif (m00-m99)'
+ 'Malformations Congénitales Et Anomalies Chromosomiques (q00-q99)'
+ 'Tumeurs (c00-d48)' 'Maladies Du SystèMe Nerveux (g00-g99)'
+ 'Maladies De La Peau Et Du Tissu Cellulaire Sous-cutané (l00-l99)'
+ ""Maladies De L'appareil Digestif (k00-k93)""
+ ""Maladies De L'appareil Génito-urinaire (n00-n99)""]"
+14,Urgences,"[""Maladies De L'appareil Digestif (k00-k93)""
+ 'Lésions Traumatiques, Empoisonnements Et Certaines Autres Conséquences De Causes Externes (s00-t98)'
+ ""Symptômes, Signes Et Résultats Anormaux D'examens Cliniques Et De Laboratoire, Non Classés Ailleurs (r00-r99)""
+ 'Maladies Du SystèMe Ostéo-articulaire, Des Muscles Et Du Tissu Conjonctif (m00-m99)'
+ ""Maladies De L'appareil Génito-urinaire (n00-n99)""
+ 'Maladies De La Peau Et Du Tissu Cellulaire Sous-cutané (l00-l99)'
+ ""Facteurs Influant Sur L'état De Santé Et Motifs De Recours Aux Services De Santé (z00-z99)""
+ 'Certaines Maladies Infectieuses Et Parasitaires (a00-b99)'
+ 'Grossesse, Accouchement Et Puerpéralité  (o00-o99)'
+ ""Maladies De L'appareil Circulatoire (i00-i99)""
+ ""Maladies De L'appareil Respiratoire (j00-j99)"" 'Tumeurs (c00-d48)'
+ 'Maladies Endocriniennes, Nutritionnelles Et Métaboliques (e00-e90)'
+ 'Maladies Du SystèMe Nerveux (g00-g99)'
+ 'Malformations Congénitales Et Anomalies Chromosomiques (q00-q99)'
+ ""Maladies De L'oreille Et De L'apophyse Mastoïde (h60-h95)""]"
